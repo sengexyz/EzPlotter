@@ -1,5 +1,5 @@
 # EzPlotter
-Free PoST blockchain plot generator for cryptocurrency farmers/miners.
+Free PoST blockchain plot generator for Chia and MMX-node farmers.
 
 * ✅ A easy-to-use and fast plotting tool, no learning curve.
 * ✅ Multiple plotting missions in one user interface.

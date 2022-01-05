@@ -7,4 +7,4 @@ Free PoST blockchain plot generator for Chia and MMX-node farmers.
 
 ![GUI overview](https://github.com/sengexyz/EzPlotter/blob/main/gallery/gui_2.png)
 
-EzPlotter calls the [madMAx43v3r chia plotter](https://github.com/madMAx43v3r/chia-plotter) executable. 
+EzPlotter internally calls the [chia plotter](https://github.com/madMAx43v3r/chia-plotter) executable. 
